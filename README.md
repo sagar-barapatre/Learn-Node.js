@@ -1,8 +1,9 @@
 Learn Node.js
 ==========================
-
+<a href="https://nodejs.org/en/"><img height=48 src="https://github.com/caiogondim/javascript-environments-logos/blob/master/node.js/standard/227x64.png" alt="node.js standard"></a>
 [![ExpressJS](https://github.com/MarioTerron/logo-images/blob/master/logos/expressjs.png)](http://expressjs.com///)
-[![Nodejs]](https://github.com/marioterron/logo-images/blob/master/logos/nodejs.png)(https://nodejs.org/en/)
+
+
 *Requires Node v0.6.6 (or newer)*
 node-boilerplate takes html-boilerplate, express, connect and organizes them into a ready to use website project. It's a fast way to get working on your Node website without having to worry about the setup. It takes care of all the boring parts, like setting up your views, 404 page, 500 page, getting the modules organized, etc... 
 
