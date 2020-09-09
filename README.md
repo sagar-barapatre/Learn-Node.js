@@ -26,7 +26,7 @@ This will copy down all of the boilerplate files, organize them appropriately an
 To run the boilerplate template app:
 
 		$ npm install
-    		$ npm run dev  // nodemon app.js
+    	$ npm run dev  // nodemon app.js
 
 Go to http://localhost:2020 and click on the send message link to see socket.io in action.
 
