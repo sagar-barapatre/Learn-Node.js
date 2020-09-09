@@ -28,14 +28,14 @@ To run the boilerplate template app:
 		$ npm install
     	$ npm run dev  // nodemon app.js
 
-Go to http://localhost:2020 and click on the send message link to see socket.io in action.
+Go to http://localhost:2020 to see in action
 
 
 To add additional modules:
 
 Update the package.json file to include new module dependencies and run 'npm install'.
 
-**If you have a different set of default modules that you like to use, the structure is setup such that you can fork the project and replace the module dependencies outlined in the ./templates/apps/package.json file to best fit your needs and the initproject.sh script will initialize projects with your new set of modules.**
+**If you have a different set of default modules that you like to use, the structure is setup such that you can fork the project and replace the module dependencies outlined in the package.json file to best fit your needs script and will initialize projects with your new set of modules.**
 
 Deployment
 ===============
