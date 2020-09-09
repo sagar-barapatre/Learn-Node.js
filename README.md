@@ -17,16 +17,16 @@ Node Boilerplate has 4 goals:
 
 To start a project:
 		
-		$ git clone https://github.com/sagar-barapatre/Learn-Node.js.git
-		$ cd Learn-Node.js-master
+	$ git clone https://github.com/sagar-barapatre/Learn-Node.js.git
+	$ cd Learn-Node.js-master
 		
 This will copy down all of the boilerplate files, organize them appropriately and init a fresh new git repository within which you can build your next big thing.
 
 
 To run the boilerplate template app:
 
-		$ npm install
-    	$ npm run dev  // nodemon app.js
+	$ npm install
+    $ npm run dev  // nodemon app.js
 
 Go to http://localhost:2020 to see in action
 
